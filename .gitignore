@@ -1,0 +1,14 @@
+#*#
+~*~
+*~
+*#
+
+.local/share/applications/
+.local/
+.config/gresemacs/
+.config/bashtop
+.config/htop
+.config/obs-studio/
+.config/oomox/
+.config/qt5ct
+.config/qt6ct

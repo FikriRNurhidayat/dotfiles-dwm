@@ -1,0 +1,22 @@
+! XFT
+Xft.antialias:	1
+Xft.hinting:	1
+Xft.autohint:	0
+Xft.hintstyle:	hintslight
+Xft.rgba:	rgb
+Xft.lcdfilter:	lcddefault
+
+! dmenu
+dmenu.font: IBM Plex Mono:style=medium:hinting=true:antialias=true:size=12
+dmenu.center: 1
+dmenu.vertpad: 16
+
+! st
+st.font: IBM Plex Mono:style=medium:hinting=true:antialias=true:size=12
+st.borderpx: 24
+
+! sent
+sent.font: IBM Plex Mono:style=medium:hinting=true:antialias:true, Symbols Nerd Font:antialias=true:hinting=true
+
+
+*.alphaBackground: 0
