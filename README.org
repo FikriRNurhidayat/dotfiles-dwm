@@ -17,6 +17,7 @@ This dotfiles requires basic xorg installation, simply clone this repository in 
 
 	# Install the dependencies
 	sudo pacman -S - < .local/share/desktop/packages.txt
+	paru -S - < .local/share/desktop/packages-extra.txt
 
 	# Install ohmyzsh
 	sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"

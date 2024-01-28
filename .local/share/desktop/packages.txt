@@ -4,3 +4,4 @@ maim
 j4-dmenu-desktop
 ttf-ibm-plex
 xclip
+papirus-icon-theme
