@@ -1,0 +1,6 @@
+kvantum
+dunst
+maim
+j4-dmenu-desktop
+ttf-ibm-plex
+xclip
