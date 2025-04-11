@@ -7,12 +7,12 @@ Xft.rgba:	rgb
 Xft.lcdfilter:	lcddefault
 
 ! dmenu
-dmenu.font: JetBrainsMono Nerd Font Mono:style=medium:hinting=true:antialias=true:size=12
+dmenu.font: JetBrainsMono Nerd Font Mono:style=medium:hinting=true:antialias=true:size=10
 dmenu.center: 1
 dmenu.vertpad: 16
 
 ! st
-st.font: JetBrainsMono Nerd Font Mono:style=medium:hinting=true:antialias=true:size=12
+st.font: JetBrainsMono Nerd Font Mono:style=medium:hinting=true:antialias=true:size=10
 st.borderpx: 24
 
 ! sent
