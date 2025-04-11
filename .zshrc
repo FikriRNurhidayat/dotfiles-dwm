@@ -15,6 +15,10 @@ HISTSIZE=1000
 HISTFILE=$HOME/.cache/zsh/history
 SAVEHIST=$HISTSIZE
 HISTDUP=erase
+
+mkdir -p $HOME/.cache/zsh
+touch $HISTFILE
+
 setopt appendhistory
 setopt sharehistory
 setopt hist_ignore_all_dups

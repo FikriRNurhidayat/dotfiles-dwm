@@ -1,10 +1,18 @@
-#*#
-~*~
-*~
-*#
 
-.local/share/nvim
-.local/share/zinit
+#*#
+*#
+*~
+~*~
+.config/tmux/plugins/tmux/
+.config/tmux/plugins/tmux-sensible/
+.config/tmux/plugins/tmux-yank/
+.config/tmux/plugins/tpm/
+.local/share/gvfs-metadata/home
+.local/share/gvfs-metadata/home-27d2a98b.log
 .local/share/nautilus
-.local/share/sddm
+.local/share/nvim
 .local/share/nwg-look
+.local/share/recently-used.xbel
+.local/share/scripts/git-ignore
+.local/share/sddm
+.local/share/zinit
