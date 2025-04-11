@@ -22,3 +22,6 @@ _darcs
 ^/COPYING
 
 screenshots
+
+.local/share/nvim
+.local/share/zinit
